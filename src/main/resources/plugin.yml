@@ -1,0 +1,5 @@
+name: NextStorage
+version: @version@
+main: com.nextplugins.nextstorage.NextStorage
+authors: [ Yuhtin, Henry_Fabio, Eike, Gabriel Santos ]
+description: A storage system with new features
